@@ -1,6 +1,6 @@
 # Convert CSV to TMX as a CLI command (danish to english). Customise to suit needs.
-# python script.py --input input2tmx.csv --output pcat.tmx
-# python script.py -i input2tmx.csv -o pcat.tmx
+# python script.py --input example.csv --output example.tmx
+# python script.py -i example.csv -o example.tmx
 
 import argparse
 import csv
